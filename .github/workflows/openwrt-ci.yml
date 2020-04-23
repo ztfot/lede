@@ -148,7 +148,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Kcptun=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_V2ray=y
-          CONFIG_PACKAGE_luci-i18n-netdata-zh-cn=y
+          #CONFIG_PACKAGE_luci-i18n-netdata-zh-cn=y
           EOF
 
           # LuCI主题:
